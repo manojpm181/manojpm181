@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @manojpm181
-- I'm From Shivmogga,Karnataka,India
-- I’m Computer Science and Engineering Student (3rd year 6th sem)
-- I’m Good in Web Development(HTML5,CSS3,JavaScript),JAVA , Python,MySQl,PHP
 
 
 <!---
